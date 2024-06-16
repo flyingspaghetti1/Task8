@@ -1,0 +1,10 @@
+Runtime of the parallel implementation when the "input" directory is in-memory:
+
+C:\Users\Alexandra\PycharmProjects\pythonProject\venv\Scripts\python.exe C:\Users\Alexandra\PycharmProjects\pythonProject\math_cache_parallel1.py 
+Elapsed time: 451.82546910003293 seconds
+
+
+Runtime of the parallel implementation when the "input" directory is on-disk:
+
+alexandra@alexandra-X542URR:~/Desktop$  /usr/bin/env /bin/python3 /home/alexandra/.vscode/extensions/ms-python.debugpy-2024.6.0-linux-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 36439 -- /home/alexandra/Desktop/mat_cache_parallel.py
+Elapsed time: 446.14248986299935 seconds

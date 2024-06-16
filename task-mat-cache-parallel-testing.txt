@@ -1,0 +1,12 @@
+Runtime of the parallel implementation:
+
+C:\Users\Alexandra\PycharmProjects\pythonProject\venv\Scripts\python.exe C:\Users\Alexandra\PycharmProjects\pythonProject\math_cache_parallel1.py 
+Elapsed time: 451.82546910003293 seconds
+
+
+
+Runtime of the standard, non-parallel implementation.
+
+C:\Users\Alexandra\PycharmProjects\pythonProject\venv\Scripts\python.exe C:\Users\Alexandra\PycharmProjects\pythonProject\mat_cache.py 
+Total elapsed time: 1658.5077111999271 seconds
+
